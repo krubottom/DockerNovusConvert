@@ -1,0 +1,2 @@
+docker rmi novus_test
+docker build -t="novus_test:latest" .
